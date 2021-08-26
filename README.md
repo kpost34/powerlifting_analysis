@@ -5,12 +5,12 @@ Explore powerlifting data and create a predictive model.
 
 
 ## Technologies
-* RStudio 1.2.5033
-* R 3.6.2 ("Dark and Stormy Night")
+* RStudio 1.4.1717
+* R 4.1.1 ("Kick Things")
 
 
 ## Future updates
-- [ ] Read in raw data
+- [x] Read in raw data
 - [ ] Clean data
 - [ ] Impute missing data
 - [ ] Check data
